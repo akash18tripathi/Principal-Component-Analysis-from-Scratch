@@ -4,6 +4,8 @@
 
 This repository contains a Jupyter Notebook that implements PCA (Principal Component Analysis) from scratch for facial recognition. It demonstrates the steps involved in PCA, including eigenface computation and accuracy comparisons for different components.
 
+If you are not able to render the PCA.ipynb, you can view the notebook [Here](https://nbviewer.org/github/akash18tripathi/Principal-Component-Analysis-from-Scratch/blob/main/PCA.ipynb)
+
 ## What notebook has to offer?
 
 The Jupyter Notebook provides an implementation of PCA for facial recognition. It starts by explaining the concepts behind PCA and its application in face recognition. Then, it guides you through the step-by-step process of implementing PCA from scratch. The notebook includes code examples and visualizations to help you understand the algorithm.
